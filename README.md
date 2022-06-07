@@ -1,6 +1,6 @@
 ### Hi there, I am Farrukh 👋
 
-- 🔭 I’m currently working on Blockchain development with Ethereum
+- 🔭 I’m currently working on Full Stack Development with Angular and also Blockchain development with Ethereum
 - 🌱 I’m learning cloud computing and full stack development with react and angular by working on open source and university projects
 - 💬 I love discussing coding and sports
 - 📫 📫 You can connect with me at <a href="https://twitter.com/RealFarrukh" target="blank">Twitter</a> and <a href="https://www.linkedin.com/in/farrukh-r-zaidi" target="blank">LinkedIn</a>
