@@ -1,7 +1,7 @@
 ### Hi there, I am Farrukh 👋
 
 - 🔭 I'm working on Ethereum and EVM compatible blockchains
-- 🌱 I’m learning rust and julia
+- 🌱 I usually work with Typescript, Solidity and Rust
 - 💬 I love discussing coding and sports
 - 📫 📫 You can connect with me at <a href="https://twitter.com/RealFarrukh" target="blank">Twitter</a> and <a href="https://www.linkedin.com/in/farrukh-r-zaidi" target="blank">LinkedIn</a>
 <h2>Languages and tools I enjoy using</h2>
