@@ -1,14 +1,17 @@
 # Hi, I'm Farrukh 👋
 
-Welcome to my GitHub profile! I'm a developer who loves working on decentralized technologies and blockchains.
+Welcome to my GitHub profile! I'm a developer who loves working on AI, ML and decentralized technologies.
 
 ## Technologies I Work With
 
-- **Solidity**
+- **Python**
 - **TypeScript** / **JavaScript**
 - **Rust**
+- **Solidity**
+- **LangChain** / **LangGraph**
 - **Hardhat**
 - **Foundry**
+- **Hugging Face**
 - **Anchor**
 - **Ethereum/EVM**
 - **Solana/SVM**
